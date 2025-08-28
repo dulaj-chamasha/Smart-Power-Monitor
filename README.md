@@ -2,6 +2,13 @@
 
 # 🔌 IoT Smart Power Monitoring Plug
 
+![Platform](https://img.shields.io/badge/platform-ESP32-blue?logo=espressif)
+![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+![MQTT](https://img.shields.io/badge/MQTT-supported-purple?logo=eclipse-mosquitto)
+![Dashboard](https://img.shields.io/badge/Dashboard-Node--RED-red?logo=nodered)
+
+---
+
 A **smart plug solution** designed for remote appliance control and real-time energy monitoring.
 Built with **ESP32** and **ADE9153A energy metering sensor**, this project demonstrates how IoT can empower smart homes with **energy efficiency** and **remote accessibility**.
 
@@ -79,5 +86,8 @@ A **working IoT smart plug prototype**, ready for deployment in **smart home eco
 
 ---
 
+## 📜 License
 
+This project is licensed under the **MIT License** – feel free to use and modify.
 
+---
