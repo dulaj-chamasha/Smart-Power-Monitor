@@ -1,6 +1,3 @@
----
-
-
 # 🔌 IoT Smart Power Monitoring Plug
 
 ![Platform](https://img.shields.io/badge/platform-ESP32-blue?logo=espressif)
